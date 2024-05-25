@@ -13,7 +13,7 @@ This is a web-based Rock.Paper.Scissors game built using HTML, CSS, and JavaScri
 - Realistic animations
 - Score tracking
 
-## Installation
+## Installation of the Game 
 
 1. Clone the repository: `git clone https://github.com/your-username/rockPaperScissorsGame.git`
 2. Open the project folder: `cd rockPaperScissorsGame`
