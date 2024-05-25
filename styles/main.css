@@ -1,5 +1,5 @@
 body{
-    background-color: #d49708;
+    background-color: #046063;
 }
 
 h2{ 
@@ -32,7 +32,7 @@ h2{
     font-family: 'Arvo', serif;
     font-size: 30px;
     font-weight: 500;
-    color: rgb(1, 1, 20);
+    color: rgb(224, 224, 235);
 }
 .your-choice{
     position: absolute;
@@ -71,7 +71,7 @@ h2{
     font-family: 'Arvo', serif;
     font-size: 30px;
     font-weight: 500;
-    color: rgb(1, 1, 20);
+    color: rgb(224, 224, 235);
 }
 
 .comp-choice{
