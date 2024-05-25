@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nova+Square&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Grandiflora+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles/main.css">
+</head>
+<body> 
+    <h2>Rock.Paper.Scissors</h2>
+    <div class="displayScore js-displayScore">
+        <h4 class="you-heading">YOU:</h4>
+        <div class="your-choice js-your-choice"><img src="./images/gameplay_bar/circle.png" alt="circle" height="300px" width="300px"></div>
+        <div class="winName js-winName">Who wins??</div>
+        <div class="score"><img src="./images/gameplay_bar/scoreBox.png" alt="scoreBox" height="100px" width="250px"></div>
+        <div class="scoreText js-scoreText">SCORE: 0</div>
+        <h4 class="comp-heading">COMPUTER:</h4>
+        <div class="comp-choice js-comp-choice"><img src="./images/gameplay_bar/circle.png" alt="circle" height="300px" width="300px"></div>
+    </div>
+    <div class="displayButtons">
+        <button class ="js-autoplay autoplay"><img src="./images/gameplay_bar/autoplay.png" alt="reset" height="80px" width="80px"></button>
+        <button class="js-playerMove rock" data-move ="Rock"><img src="./images/gameplay_bar/rock.png" alt="reset" height="80px" width="80px"></button>
+        <button class="js-playerMove scissors" data-move ="Scissors"><img src="./images/gameplay_bar/scissors.png" alt="reset" height="80px" width="80px"></button>
+        <button class="js-playerMove paper" data-move ="Paper"><img src="./images/gameplay_bar/paper.png" alt="reset" height="80px" width="80px"></button>
+        <button class="js-reset reset"><img src="./images/gameplay_bar/reset.png" alt="reset" height="80px" width="80px"></button>
+    </div>
+
+    <script type="module" src="./scripts/main.js"></script>
+</body>
+</html>
