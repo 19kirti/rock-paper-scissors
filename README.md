@@ -27,7 +27,7 @@ This is a web-based Rock.Paper.Scissors game built using HTML, CSS, and JavaScri
 4. The score will be updated accordingly.
 5. Play again for more fun!
 
-## Contributing
+## Contributions
 
 Welcome for the contributions! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
