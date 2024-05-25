@@ -1,6 +1,7 @@
 # Rock.Paper.Scissors online game 
 
-![Main Page](/Designs/mainPage.png)
+![Screenshot (58)](https://github.com/19kirti/rock-paper-scissors/assets/145956071/80b889e0-a518-42d9-a6ff-3a8bcb9730c4)
+
 
 ## About the Game 
 
